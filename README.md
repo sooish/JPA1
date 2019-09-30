@@ -14,7 +14,7 @@ JPA 핵심개념들 이해하기
 # How to run it
 JAVA -> RUNNING 파일을 열고<br>
 STEP04CREATE를 실행<br>
-META-INF에서 create-> none으로 수정하고<br>
+META-INF에서 CREATE-> NONE으로 수정하고<br>
 STEP03CRUD에서 SERACHONE/ UPDATE / DELETE를 순차적으로 실행한다.<br>
 
 # Images
